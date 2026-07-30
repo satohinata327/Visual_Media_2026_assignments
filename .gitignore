@@ -9,6 +9,7 @@ __pycache__/
 third_party/VCD/
 checkpoints/
 data/
+datasets/
 
 # 実験出力
 outputs/
