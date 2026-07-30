@@ -1,0 +1,31 @@
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.venv/
+
+# GPUサーバーで取得する外部コード・モデル・データ
+third_party/VCD/
+checkpoints/
+data/
+
+# 実験出力
+outputs/
+logs/
+
+# Hugging Face / CUDA
+.cache/
+wandb/
+
+# OS / editor
+.DS_Store
+.idea/
+.vscode/
+
+# ローカル用の説明・調査文書
+*.md
+!README.md
+*.csv
+docs/
+licenses/
