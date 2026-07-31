@@ -1,5 +1,11 @@
 # 映像メディア学　レポート課題
 
+映像メディア学レポート課題で使用したソースコードを格納するリポジトリ
+
+## 参考論文
+Sicong Leng et al., "Mitigating Object Hallucinations in Large Vision-Language Models through Visual Contrastive Decoding," CVPR 2024.
+[Official VCD implementation](https://github.com/DAMO-NLP-SG/VCD/tree/d6568ff81b8fd306a49e630df44f2db5c2300191)
+
 ## 環境構築
 
 ```
