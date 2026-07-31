@@ -60,7 +60,7 @@ python experiments/eval/object_hallucination_vqa_llava.py \
   --seed 55
 ```
 ## 評価
-以下Randomでの評価コマンド
+以下Randomでの評価コマンド \
 RandomとPopularとRegularそれぞれで評価可能
 ```
 python experiments/eval/eval_pope.py \
@@ -74,7 +74,7 @@ python experiments/eval/eval_pope.py \
 
 
 ## 結果
-以下出力例と指標の見方
+以下出力例と指標の見方　\
 AccuracyとF1の数値を主に見ることになる
 ```
 Accuracy: 0.8773
